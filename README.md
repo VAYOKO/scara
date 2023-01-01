@@ -6,3 +6,8 @@
 # scara gui version 4.1.2
 
 ![image](https://user-images.githubusercontent.com/63534193/210138972-a7adcb5a-31a4-417a-9be3-9442e83397fa.png)
+
+# scara gui version 4.3.0 date edit 2/1/2023 dd/mm/yy
+
+![image](https://user-images.githubusercontent.com/63534193/210181165-47d5684e-f1de-4f40-a3d7-0bd1d09a5f5a.png)
+
