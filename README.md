@@ -11,3 +11,6 @@
 
 ![image](https://user-images.githubusercontent.com/63534193/210181165-47d5684e-f1de-4f40-a3d7-0bd1d09a5f5a.png)
 
+# scara gui version 4.4.0 date edit 2/1/2023 dd/mm/yy
+
+<img width="561" alt="image" src="https://user-images.githubusercontent.com/63534193/211058729-2e8c4080-d80a-49d3-85f4-b92aec094d38.png">
