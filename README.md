@@ -1,7 +1,8 @@
 #ชิ้นงานทั้งหมดเป็นลิขสิทธิ์ทางปัญญา ไม่อนุญาติให้นำไปใช้เด็ดขาด
 # Scara MELODIX version 5
 
-[Assem1.PDF](https://github.com/VAYOKO/scara/files/10448402/Assem1.PDF)
+
+![Assem1](https://user-images.githubusercontent.com/63534193/213231781-907f7534-3b96-4bf9-8e98-4dd41d708e43.PNG)
 
 # scara gui version 4.1.2
 
